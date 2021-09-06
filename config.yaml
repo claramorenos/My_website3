@@ -82,7 +82,7 @@ params:
     enable: yes
     showcase:
       - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
+        subtitle: Personal Introduction
         title: About Me
         url: blogs/clara
       - image: pic02.jpg
